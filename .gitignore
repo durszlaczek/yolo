@@ -2,3 +2,11 @@
 *.jpeg
 *.weights
 *.h5
+.idea/*
+*.DS_Store*
+*__pycache__*
+logs/
+images_ids/
+labels/
+train_annot_folder/
+
